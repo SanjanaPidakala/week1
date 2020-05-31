@@ -1,3 +1,0 @@
-This is my text on node js
-i am happy to learn node js
-node js is intresting...
